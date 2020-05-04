@@ -1,0 +1,26 @@
+{
+  "name": "download-video",
+  "version": "1.0.0",
+  "description": "download-video",
+  "main": "index.js",
+  "bin": {
+    "download-video": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "download",
+    "download video",
+    "video",
+    "ytdl",
+    "youtube",
+    "download youtube",
+    "cli"
+  ],
+  "author": "yong@asial.co.jp",
+  "license": "ISC",
+  "dependencies": {
+    "ytdl-core": "^2.1.1"
+  }
+}
