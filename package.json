@@ -1,6 +1,6 @@
 {
   "name": "get-video-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "download-video",
   "main": "index.js",
   "bin": {
@@ -19,6 +19,11 @@
     "download youtube",
     "cli"
   ],
+  "homepage": "https://github.com/yong-asial/download-video",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yong-asial/download-video.git"
+  },
   "author": "yong@asial.co.jp",
   "license": "ISC",
   "dependencies": {
